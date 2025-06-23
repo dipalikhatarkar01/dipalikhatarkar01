@@ -20,8 +20,7 @@ C++, HTML, HTML5, CSS, Git, GitHub, VS Code, DSA
 ---
 
 ### 📈 GitHub Stats
-![Dipali's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipalikhatarkar&show_icons=true&theme=radical)
-
+![Dipali's GitHub stats] (https://github-readme-stats.vercel.app/api?username=dipali-khatarkar&show_icons=true&theme=radical)
 ---
 
 ### 📫 Let's Connect
