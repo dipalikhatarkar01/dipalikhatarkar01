@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Dipali Khatarkar!  
+# 👋 Hey there,
 
 ### 🌸 About Me
 - 🎓 Final Year Student at Jabalpur Engineering College  
